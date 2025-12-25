@@ -1,0 +1,22 @@
+# 🚀 COMANDOS FINALES PARA DESPLEGAR
+
+# IMPORTANTE: Reemplaza "TU_USUARIO" con tu nombre de usuario de GitHub
+
+# 1. Conectar con tu repositorio de GitHub
+git remote add origin https://github.com/TU_USUARIO/chat-privado-seguro-landing.git
+
+# 2. Subir todos los archivos
+git push -u origin main
+
+# 3. Después de ejecutar estos comandos:
+# - Ve a tu repositorio en GitHub
+# - Settings → Pages
+# - Source: "Deploy from a branch"
+# - Branch: "main" 
+# - Folder: "/ (root)"
+# - Save
+
+# 4. Tu sitio estará disponible en:
+# https://TU_USUARIO.github.io/chat-privado-seguro-landing/
+
+# ¡El sitio se activa automáticamente en 2-5 minutos!
